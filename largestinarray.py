@@ -1,5 +1,5 @@
 # python program to find sum of an aaray
-# MD SHAHNWAJ(22BEE026)
+ 
 lst=[25,11,7,75,56]
 max=lst[0]
 
