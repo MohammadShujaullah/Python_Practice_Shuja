@@ -1,5 +1,5 @@
 # Python program for compound interest
-# SHVAIB KHAN(22BEE035)
+ 
 p=float(input("Enter principle amt:"))
 r=float(input("Enter interest rate:"))
 t=float(input("Enter time duration:"))
