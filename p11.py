@@ -1,5 +1,5 @@
 ## 11 number is fibonacci or not
-# SHVAIB KHAN (22BEE035)
+ 
 import math 
 def isperfectSquare(number):
     s=int(math.sqrt(number))       ##(5*n*n+4)or (5*n*n-4) must be 
