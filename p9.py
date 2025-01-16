@@ -1,5 +1,5 @@
 # 9.check whether anumber is prime or not 
-#  SHVAIB KHAN(22BEE035)
+ 
 
 num=int(input("enter the value of number"))
 flag=0
