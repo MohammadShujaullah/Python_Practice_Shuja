@@ -1,5 +1,5 @@
 # python program to find sum of an aaray
-# MD SHAHNWAJ(22BEE026)
+ 
 lst=[]
 # number of element as input
 n=int(input("enter the value of element:"))
