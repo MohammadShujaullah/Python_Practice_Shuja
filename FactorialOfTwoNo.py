@@ -1,5 +1,5 @@
 # Python program for factorial of a number
-# SHVAIB KHAN (22BEE035)
+ 
 
 a=int(input("enter the value of a"))
 n=1
