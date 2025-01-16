@@ -1,5 +1,5 @@
 ## python program to find positon of nth multiple of number k in febunacci series 
-# SHVAIB KHAN(22BEE035)
+
 
 def findposition(k,n):
     a=0
