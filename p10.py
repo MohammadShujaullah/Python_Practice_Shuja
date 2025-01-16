@@ -1,5 +1,5 @@
 ## 10.   for nth febonacci number 
-# #  SHVAIB KHAN (22BEE035)
+ 
 a=0
 b=1
 num=int(input("enter the vlue of number :"))
