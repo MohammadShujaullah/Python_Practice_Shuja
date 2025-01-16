@@ -1,5 +1,5 @@
 #PYTHON PROGRAM FOR COMPOUND INTEREST
-# SHVAIB KHAN (22BEE035)
+ 
 
 p=float(input('enter principle amount:'))
 r=float(input('interest rate :'))
