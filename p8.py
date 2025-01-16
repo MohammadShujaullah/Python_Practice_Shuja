@@ -1,5 +1,5 @@
 # 8.PYTHON PROGRAM TO PRINT ALL  prime in an interval
-# SHVAIB KHAN(22BEE035)
+ 
 def prime(starting_range,ending_range):
     list=[]
     flag=0
