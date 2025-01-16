@@ -1,5 +1,5 @@
 # python program to check  armstrong no
-# SHVAIB KHAN (22BEE035)
+ 
 num=int(input("enter the value of number:"))
 
 #initialise sum
